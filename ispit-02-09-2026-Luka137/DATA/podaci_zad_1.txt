@@ -1,0 +1,19 @@
+    K-1001;Objektno programiranje;Ana Marić;0;0
+    K-1002;Baze podataka;Marko Kovač;9;0
+    K-1003;Algoritmi i strukture podataka;Iva Jurić;4;1
+    K-1004;Računalne mreže;Luka Babić;17;0
+    K-1005;Uvod u programiranje;Petra Radić;2;2
+    K-1006;Informacijski sustavi;Ivan Perić;31;0
+    K-1007;Operacijski sustavi;Marta Jelić;0;1
+    K-1008;Web programiranje;Nikola Šarić;12;0
+    K-1009;Programiranje u Javi;Lucija Grubić;35;2
+    K-1010;Diskretna matematika;Ante Vuković;0;0
+    K-1011;Umjetna inteligencija;Sara Pavlović;60;0
+    K-1012;Računalna grafika;Dino Knez;7;3
+    K-1013;Sigurnost informacijskih sustava;Ema Barišić;1;0
+    K-1014;Upravljanje IT projektima;Filip Novak;28;1
+    K-1015;Razvoj mobilnih aplikacija;Tea Matić;0;0
+    K-1016;Programiranje za web;Josip Lovrić;45;5
+    K-1017;Strojno učenje;Marina Božić;61;1
+    K-1018;Informacijska pismenost;Karlo Jurin;pet;0
+    K-1019;Digitalna obrada slike;Nina Rakić;12;6

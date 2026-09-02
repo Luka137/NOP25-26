@@ -1,0 +1,28 @@
+{
+  "COURSES": [
+    {
+      "course_name": "MATH",
+      "students": [
+        { "id": 1, "name": "Marko Petrovic" },
+        { "id": 2, "name": "Jelena Jovanovic" },
+        { "id": 3, "name": "Stefan Nikolic" }
+      ]
+    },
+    {
+      "course_name": "CS",
+      "students": [
+        { "id": 4, "name": "Milica Ilic" },
+        { "id": 5, "name": "Luka Kostic" },
+        { "id": 6, "name": "Ana Bogdanovic" }
+      ]
+    },
+    {
+      "course_name": "UNIX_OS",
+      "students": [
+        { "id": 7, "name": "Petar Milenkovic" },
+        { "id": 8, "name": "Sara Matic" },
+        { "id": 9, "name": "Igor Radulovic" }
+      ]
+    }
+  ]
+}

@@ -9,9 +9,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class AUX_RW {
+public final class AUX_RW {
 
     private AUX_RW() {
+    }
+
+    public static void primjerMetode(){
     }
 
     public static void spremi(ArrayList<TerminRadionice> termini, String putanja)
